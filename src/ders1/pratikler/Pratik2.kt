@@ -14,10 +14,10 @@ fun main() {
 }
 
 fun skorTablosuYazdir(ad: String, puan: Int) {
-    println("=====================================")
-    println("🏆 OYUNCU SKOR KARTI")
-    println("=====================================")
-    println("👤 Oyuncu : $ad")
-    println("⭐ Puan   : $puan")
-    println("=====================================")
+println("=====================================")
+println("🏆 OYUNCU SKOR KARTI")
+println("=====================================")
+println("👤 Oyuncu : $ad")
+println("⭐ Puan   : $puan")
+println("=====================================")
 }
