@@ -6,8 +6,6 @@ fun main() {
 
     cekilisKatilimcilari.add("Bahar")
     cekilisKatilimcilari.add("Kerem")
-    cekilisKatilimcilari.add("Ülkü")
-
     cekilisKatilimcilari.add("Kerem")
     cekilisKatilimcilari.add("Kerem")
 

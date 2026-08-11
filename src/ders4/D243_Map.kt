@@ -8,7 +8,7 @@ fun main() {
     val sinavNotlari = mutableMapOf<String, Int>()
 
     sinavNotlari["Matematik"] = 95
-    sinavNotlari["Fizik"] = 80
+    sinavNotlari["Biyoloji"] = 80
     sinavNotlari["Türkçe"] = 78
 
     sinavNotlari["Türkçe"] = 100
