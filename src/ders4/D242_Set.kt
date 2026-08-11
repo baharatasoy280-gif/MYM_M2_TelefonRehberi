@@ -14,7 +14,7 @@ fun main() {
 
     val katilimciListesi = cekilisKatilimcilari.toList()
 
-    println("Listesnin İlk Elemanı: ${katilimciListesi[0]}")
+    println("Listenin İlk Elemanı: ${katilimciListesi[0]}")
 
     val ogrenciListesi = mutableListOf<String>()
 
