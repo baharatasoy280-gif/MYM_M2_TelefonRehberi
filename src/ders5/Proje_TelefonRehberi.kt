@@ -1,4 +1,9 @@
-package ders05.ortak
+package ders5
+
+import ders5.ortak.kisiBul
+import ders5.ortak.kisiEkle
+import ders5.ortak.menuyuGoster
+import ders5.ortak.rehberiListele
 
 fun main() {
 

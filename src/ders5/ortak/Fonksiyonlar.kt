@@ -1,6 +1,7 @@
-package ders05.ortak
+package ders5.ortak
 
 import ders1.cizgicek
+import kotlin.collections.iterator
 
 
 fun menuyuGoster() {
